@@ -1,0 +1,15 @@
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\obj\Debug\net10.0\MobileShop.Application.csproj.AssemblyReference.cache
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\obj\Debug\net10.0\MobileShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\obj\Debug\net10.0\MobileShop.Application.AssemblyInfoInputs.cache
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\obj\Debug\net10.0\MobileShop.Application.AssemblyInfo.cs
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\obj\Debug\net10.0\MobileShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\bin\Debug\net10.0\MobileShop.Application.deps.json
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\bin\Debug\net10.0\MobileShop.Application.dll
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\bin\Debug\net10.0\MobileShop.Application.pdb
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\bin\Debug\net10.0\MobileShop.Domain.dll
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\bin\Debug\net10.0\MobileShop.Domain.pdb
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\obj\Debug\net10.0\MobileSh.39087D69.Up2Date
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\obj\Debug\net10.0\MobileShop.Application.dll
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\obj\Debug\net10.0\refint\MobileShop.Application.dll
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\obj\Debug\net10.0\MobileShop.Application.pdb
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Application\obj\Debug\net10.0\ref\MobileShop.Application.dll

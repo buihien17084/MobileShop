@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\transformers\\source\\repos\\MobileShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF7881B-784D-1FD3-DD9B-FD61873828AA}|MobileShop.Infrastructure\\MobileShop.Infrastructure.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.infrastructure\\services\\authanduserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF7881B-784D-1FD3-DD9B-FD61873828AA}|MobileShop.Infrastructure\\MobileShop.Infrastructure.csproj|solutionrelative:mobileshop.infrastructure\\services\\authanduserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EA701F-B14F-5983-F5A3-71B7F13577CD}|MobileShop.Application\\MobileShop.Application.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.application\\interfaces\\services\\iserviceinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EA701F-B14F-5983-F5A3-71B7F13577CD}|MobileShop.Application\\MobileShop.Application.csproj|solutionrelative:mobileshop.application\\interfaces\\services\\iserviceinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EA701F-B14F-5983-F5A3-71B7F13577CD}|MobileShop.Application\\MobileShop.Application.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.application\\dtos\\auth\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EA701F-B14F-5983-F5A3-71B7F13577CD}|MobileShop.Application\\MobileShop.Application.csproj|solutionrelative:mobileshop.application\\dtos\\auth\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF7881B-784D-1FD3-DD9B-FD61873828AA}|MobileShop.Infrastructure\\MobileShop.Infrastructure.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.infrastructure\\data\\mobileshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF7881B-784D-1FD3-DD9B-FD61873828AA}|MobileShop.Infrastructure\\MobileShop.Infrastructure.csproj|solutionrelative:mobileshop.infrastructure\\data\\mobileshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EA701F-B14F-5983-F5A3-71B7F13577CD}|MobileShop.Application\\MobileShop.Application.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EA701F-B14F-5983-F5A3-71B7F13577CD}|MobileShop.Application\\MobileShop.Application.csproj|solutionrelative:mobileshop.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B67087-77D3-8D9D-8B08-FCEE5A4735F2}|MobileShop.Domain\\MobileShop.Domain.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.domain\\entities\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B67087-77D3-8D9D-8B08-FCEE5A4735F2}|MobileShop.Domain\\MobileShop.Domain.csproj|solutionrelative:mobileshop.domain\\entities\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EA701F-B14F-5983-F5A3-71B7F13577CD}|MobileShop.Application\\MobileShop.Application.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EA701F-B14F-5983-F5A3-71B7F13577CD}|MobileShop.Application\\MobileShop.Application.csproj|solutionrelative:mobileshop.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B67087-77D3-8D9D-8B08-FCEE5A4735F2}|MobileShop.Domain\\MobileShop.Domain.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.domain\\exceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B67087-77D3-8D9D-8B08-FCEE5A4735F2}|MobileShop.Domain\\MobileShop.Domain.csproj|solutionrelative:mobileshop.domain\\exceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B67087-77D3-8D9D-8B08-FCEE5A4735F2}|MobileShop.Domain\\MobileShop.Domain.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B67087-77D3-8D9D-8B08-FCEE5A4735F2}|MobileShop.Domain\\MobileShop.Domain.csproj|solutionrelative:mobileshop.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EA701F-B14F-5983-F5A3-71B7F13577CD}|MobileShop.Application\\MobileShop.Application.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.application\\common\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EA701F-B14F-5983-F5A3-71B7F13577CD}|MobileShop.Application\\MobileShop.Application.csproj|solutionrelative:mobileshop.application\\common\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626743B1-CF08-20F5-3457-4AAB205C80D8}|MobileShop\\MobileShop.API.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626743B1-CF08-20F5-3457-4AAB205C80D8}|MobileShop\\MobileShop.API.csproj|solutionrelative:mobileshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626743B1-CF08-20F5-3457-4AAB205C80D8}|MobileShop\\MobileShop.API.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{626743B1-CF08-20F5-3457-4AAB205C80D8}|MobileShop\\MobileShop.API.csproj|solutionrelative:mobileshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF7881B-784D-1FD3-DD9B-FD61873828AA}|MobileShop.Infrastructure\\MobileShop.Infrastructure.csproj|c:\\users\\transformers\\source\\repos\\mobileshop\\mobileshop.infrastructure\\options\\infrastructureoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF7881B-784D-1FD3-DD9B-FD61873828AA}|MobileShop.Infrastructure\\MobileShop.Infrastructure.csproj|solutionrelative:mobileshop.infrastructure\\options\\infrastructureoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop\\appsettings.json",
+              "RelativeDocumentMoniker": "MobileShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop\\appsettings.json",
+              "RelativeToolTip": "MobileShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T09:14:19.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Application\\Common\\Models.cs",
+              "RelativeDocumentMoniker": "MobileShop.Application\\Common\\Models.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Application\\Common\\Models.cs",
+              "RelativeToolTip": "MobileShop.Application\\Common\\Models.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:11:11.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MobileShop.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "MobileShop.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T08:29:56.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InfrastructureOptions.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Infrastructure\\Options\\InfrastructureOptions.cs",
+              "RelativeDocumentMoniker": "MobileShop.Infrastructure\\Options\\InfrastructureOptions.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Infrastructure\\Options\\InfrastructureOptions.cs",
+              "RelativeToolTip": "MobileShop.Infrastructure\\Options\\InfrastructureOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:31:42.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Application\\DTOs\\Auth\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "MobileShop.Application\\DTOs\\Auth\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Application\\DTOs\\Auth\\AuthDtos.cs",
+              "RelativeToolTip": "MobileShop.Application\\DTOs\\Auth\\AuthDtos.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:19:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Domain\\Exceptions\\Exceptions.cs",
+              "RelativeDocumentMoniker": "MobileShop.Domain\\Exceptions\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Domain\\Exceptions\\Exceptions.cs",
+              "RelativeToolTip": "MobileShop.Domain\\Exceptions\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T16:25:48.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Domain\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "MobileShop.Domain\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Domain\\Enums\\Enums.cs",
+              "RelativeToolTip": "MobileShop.Domain\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:52:05.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Domain\\Entities\\Entities.cs",
+              "RelativeDocumentMoniker": "MobileShop.Domain\\Entities\\Entities.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Domain\\Entities\\Entities.cs",
+              "RelativeToolTip": "MobileShop.Domain\\Entities\\Entities.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:29:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MobileShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Infrastructure\\Data\\MobileShopDbContext.cs",
+              "RelativeDocumentMoniker": "MobileShop.Infrastructure\\Data\\MobileShopDbContext.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Infrastructure\\Data\\MobileShopDbContext.cs",
+              "RelativeToolTip": "MobileShop.Infrastructure\\Data\\MobileShopDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:20:12.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MobileShop.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "MobileShop.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:04:15.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthAndUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Infrastructure\\Services\\AuthAndUserServices.cs",
+              "RelativeDocumentMoniker": "MobileShop.Infrastructure\\Services\\AuthAndUserServices.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Infrastructure\\Services\\AuthAndUserServices.cs",
+              "RelativeToolTip": "MobileShop.Infrastructure\\Services\\AuthAndUserServices.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:42:06.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServiceInterfaces.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Application\\Interfaces\\Services\\IServiceInterfaces.cs",
+              "RelativeDocumentMoniker": "MobileShop.Application\\Interfaces\\Services\\IServiceInterfaces.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop.Application\\Interfaces\\Services\\IServiceInterfaces.cs",
+              "RelativeToolTip": "MobileShop.Application\\Interfaces\\Services\\IServiceInterfaces.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:32:09.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MobileShop\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\transformers\\source\\repos\\MobileShop\\MobileShop\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MobileShop\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:03:21.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

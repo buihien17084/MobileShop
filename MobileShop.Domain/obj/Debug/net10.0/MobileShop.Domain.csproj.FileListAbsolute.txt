@@ -1,0 +1,11 @@
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\bin\Debug\net10.0\MobileShop.Domain.deps.json
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\bin\Debug\net10.0\MobileShop.Domain.dll
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\bin\Debug\net10.0\MobileShop.Domain.pdb
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\obj\Debug\net10.0\MobileShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\obj\Debug\net10.0\MobileShop.Domain.AssemblyInfoInputs.cache
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\obj\Debug\net10.0\MobileShop.Domain.AssemblyInfo.cs
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\obj\Debug\net10.0\MobileShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\obj\Debug\net10.0\MobileShop.Domain.dll
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\obj\Debug\net10.0\refint\MobileShop.Domain.dll
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\obj\Debug\net10.0\MobileShop.Domain.pdb
+C:\Users\transformers\source\repos\MobileShop\MobileShop.Domain\obj\Debug\net10.0\ref\MobileShop.Domain.dll
